@@ -1,4 +1,4 @@
-Demo : prime-video-clones.netlify.app
+Demo : [https:prime-video-clones.netlify.app](https://prime-video-clones.netlify.app/)
 
 # Amazon Prime Video Homepage Clone
 
