@@ -1,3 +1,5 @@
+Demo : prime-video-clones.netlify.app
+
 # Amazon Prime Video Homepage Clone
 
 This project is a clone of the homepage of Amazon Prime Video using the following technologies:
