@@ -12,7 +12,7 @@
 
 
 .standartCarousel .swiper:hover { 
-  z-index: 999999999999 !important;
+  z-index: 999 !important;
 }
 
 .standartCarousel .swiper-slide {
